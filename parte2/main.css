@@ -1,0 +1,23 @@
+.padre-box{
+	background-color: blue;
+	position:relative;
+	width: 400px;
+	height: 400px;
+
+}
+.hijo-uno{
+	background-color:green;
+	position: absolute;
+	top:100px;
+	left:100px;
+	width: 200px;
+	height: 200px;
+	}
+
+.hijo-dos{
+	background-color:black;
+	position: static;
+	width:100px;
+	height:100px;
+
+}

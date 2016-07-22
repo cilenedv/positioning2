@@ -1,0 +1,22 @@
+.padre-box{
+	background-color: red;
+	position: static;
+	width: 400px;
+	height: 400px;
+
+}
+.hijo{
+	background-color:#FF00BF;
+	position:relative;
+	top:100px;
+	left:100px;
+	width: 200px;
+	height: 200px;
+	}
+
+.uno{
+	background-color:yellow;
+	position:absolute;
+	width:100px;
+	height:100px;
+}
